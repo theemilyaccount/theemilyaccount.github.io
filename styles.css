@@ -10,7 +10,7 @@ body {
     font-family: "Iosevka Web";
 }
 
-a.accountButton {
+.accountButton {
 	box-shadow:inset 0px 1px 0px 0px #fbafe3;
 	background:linear-gradient(to bottom, #fbafe3 5%, #fbafe3 100%);
 	background-color:#fbafe3;
@@ -25,11 +25,11 @@ a.accountButton {
 	text-decoration:none;
 	text-shadow:0px 1px 0px #c70067;
 }
-a.accountButton:hover {
+.accountButton:hover {
 	background:linear-gradient(to bottom, #fbafe3 5%, #fbafe3 100%);
 	background-color:#fbafe3;
 }
-a.accountButton:active {
+.accountButton:active {
 	position:relative;
 	top:1px;
 }
